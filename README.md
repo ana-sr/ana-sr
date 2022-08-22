@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Cartões:
+https://github.com/anuraghazra/github-readme-stats#customization
+http://github-readme-streak-stats.herokuapp.com/demo/
 -->
 
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-sr&show_icons=true&theme=panda&hide_border=true&bg_color=3DDDA800)
