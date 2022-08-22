@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-sr&show_icons=true&theme=panda)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-sr&theme=panda&langs_count=3)](https://github.com/ana-sr/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ana-sr&theme=bear&hide_border=true&locale=pt-br&date_format=j%20M%5B%20Y%5D&background=3DDDA800&ring=92a8d1&fire=92a8d1&currStreakNum=92a8d1&sideNums=92a8d1&dates=c5b9cd&currStreakLabel=f7cac9&sideLabels=f7cac9)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ana-sr&theme=bear&hide_border=true&locale=pt-br&date_format=j%20M%5B%20Y%5D&background=3DDDA800&ring=ff9eb0&fire=92a8d1&currStreakNum=92a8d1&sideNums=92a8d1&dates=c5b9cd&currStreakLabel=f7cac9&sideLabels=f7cac9)](https://git.io/streak-stats)
