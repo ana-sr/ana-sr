@@ -1,4 +1,7 @@
 ### Hi there 👋
+### I'm Ana (she/her) 
+
+### Ferramentas e Linguagens:
 
 <!--
 **ana-sr/ana-sr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Snake animation](https://github.com/ana-sr/ana-sr/blob/output/github-contribution-grid-snake.svg)
