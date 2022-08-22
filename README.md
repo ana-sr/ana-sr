@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-sr&show_icons=true&theme=panda)
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-sr&show_icons=true&theme=panda&bg_color=3DDDA800)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-sr&theme=panda&langs_count=3)](https://github.com/ana-sr/github-readme-stats)
 <!-- Streaks -->
