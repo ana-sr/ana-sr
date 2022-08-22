@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 -->
 
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-sr&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-sr&layout=compact)](https://github.com/ana-sr/github-readme-stats)
