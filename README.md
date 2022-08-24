@@ -1,9 +1,10 @@
-### READ ME EM OBRAS!!!!
 ### Hi there 👋
-### I'm Ana (she/her) 
+### I'm Ana 
 
-### Ferramentas e Linguagens:
-
+- 😄 Pronouns:she/her
+- 📫 How to reach me: anacaroline.soaresramos@gmail.com
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning 
 <!--
 **ana-sr/ana-sr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
