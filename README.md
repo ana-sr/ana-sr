@@ -1,5 +1,4 @@
 ##Olá! Bem vind@!
-##
 - Meu nome é Ana Caroline Soares Ramos
 - 23 anos
 - Brasília, DF - Brasil
