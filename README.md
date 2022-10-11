@@ -4,6 +4,7 @@
 - Brasília, DF - Brasil
 - Tecnóloga em Análise e Desenvolvimento de Sistema
 - Estudante de Big Data Analytics
+- Futura engenheira de dados 
 ---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ana-sr&show_icons=true&theme=bear&hide_border=true&bg_color=3DDDA800" alt="Github status">
